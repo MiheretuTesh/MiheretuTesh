@@ -2,10 +2,6 @@
 
 I'm a Software Engineer. Currently working at [Hire Armada](https://www.hirearmada.com)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiheretuTesh&show_icons=true&theme=radical)
-
 ## Skills
 
 - **Languages:** JavaScript, TypeScript, Python, Java
