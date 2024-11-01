@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Miheretu! 👋
 
-<!--
-**MiheretuTesh/MiheretuTesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer. Currently working at [Hire Armada](https://www.hirearmada.com)
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiheretuTesh&show_icons=true&theme=radical)
+
+## Skills
+
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frameworks:** React, Node.js, Express
+- **Tools:** Git, Docker, Firebase, Supabase, Resend
+
+## Projects
+
+- **Scraplib** - A data scraping service with lead generation and automation features.
+- **Other Projects** - Check out my repos for more!
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:miheretutd@gmail.com)
