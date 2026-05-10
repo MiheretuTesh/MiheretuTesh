@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiheretuTesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=2F81F7&title_color=2F81F7&include_all_commits=true&count_private=true" />
+ 
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MiheretuTesh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
 </div>
 
