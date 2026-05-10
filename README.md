@@ -49,23 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
- 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MiheretuTesh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiheretuTesh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
 ### 📈 Activity Graph
 
 <div align="center">
