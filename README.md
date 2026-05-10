@@ -13,13 +13,6 @@
   <em>Comfortable across the stack — happiest where product meets code.</em>
 </p>
 
-<div align="center">
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=MiheretuTesh&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/MiheretuTesh)
-  [![GitHub followers](https://img.shields.io/github/followers/MiheretuTesh?style=for-the-badge&color=2F81F7&labelColor=0d1117)](https://github.com/MiheretuTesh?tab=followers)
-
-</div>
-
 ---
 
 ### 🧠 About Me
@@ -91,7 +84,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miheretu-teshale/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miheretutd@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/MiheretuTesh)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.miheretu.dev/)
 
 </div>
 
