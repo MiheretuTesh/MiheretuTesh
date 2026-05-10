@@ -27,22 +27,22 @@
 
 ### 🛠️ Tech Stack
 
-<p align="w-full">
+<p align="center">
   <strong>Languages</strong><br/>
   <img src="https://skillicons.dev/icons?i=ts,js,python,go,html,css" />
 </p>
 
-<p align="">
+<p align="center">
   <strong>Frameworks & Libraries</strong><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,tailwind" />
 </p>
 
-<p align="=">
+<p align="center">
   <strong>Databases & Infra</strong><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,vercel" />
 </p>
 
-<p align="">
+<p align="center">
   <strong>Tools</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
 </p>
