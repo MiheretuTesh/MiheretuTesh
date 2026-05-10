@@ -1,8 +1,102 @@
-# Hi there, I'm Miheretu! 👋
+<!-- Animated Header -->
+<div align="center">
+  <a href="https://github.com/MiheretuTesh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=820&lines=Hi+there%2C+I'm+Miheretu+%F0%9F%91%8B;Software+Engineer+%E2%9A%A1+Building+for+the+web;Currently+crafting+products+%40+Hire+Armada" alt="Typing SVG" />
+  </a>
+</div>
 
-I'm a Software Engineer. Currently working at [Hire Armada](https://www.hirearmada.com)
+<br />
 
-## Connect
+<!-- Intro -->
+<p align="center">
+  <em>Engineer who likes shipping clean, fast, useful software.</em><br/>
+  <em>Comfortable across the stack — happiest where product meets code.</em>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miheretu-teshale/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miheretutd@gmail.com)
+<div align="center">
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=MiheretuTesh&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/MiheretuTesh)
+  [![GitHub followers](https://img.shields.io/github/followers/MiheretuTesh?style=for-the-badge&color=2F81F7&labelColor=0d1117)](https://github.com/MiheretuTesh?tab=followers)
+
+</div>
+
+---
+
+### 🧠 About Me
+
+- 🔭 Currently working at **[Hire Armada](https://www.hirearmada.com)**
+- 🧩 Into web platforms, design systems, and clean developer ergonomics
+- 🌱 Always learning — currently exploring **AI-assisted developer tools**
+- 💬 Ask me about **TypeScript, Next.js, Node, system design**
+- ⚡ Fun fact: I write code the same way I drink coffee — strong and uninterrupted
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,html,css" />
+</p>
+
+<p align="center">
+  <strong>Frameworks & Libraries</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,tailwind" />
+</p>
+
+<p align="center">
+  <strong>Databases & Infra</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,vercel" />
+</p>
+
+<p align="center">
+  <strong>Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiheretuTesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=2F81F7&title_color=2F81F7&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MiheretuTesh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiheretuTesh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F81F7&langs_count=8" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MiheretuTesh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiheretuTesh&bg_color=0d1117&color=2F81F7&line=2F81F7&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miheretu-teshale/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miheretutd@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/MiheretuTesh)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <em>“Code is read more often than it is written.” — Guido van Rossum</em>
+</div>
