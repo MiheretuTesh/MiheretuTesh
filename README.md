@@ -17,7 +17,6 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working at **[Hire Armada](https://www.hirearmada.com)**
 - 🧩 Into web platforms, design systems, and clean developer ergonomics
 - 🌱 Always learning — currently exploring **AI-assisted developer tools**
 - 💬 Ask me about **TypeScript, Next.js, Node, system design**
