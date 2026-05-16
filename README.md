@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <div align="center">
   <a href="https://github.com/MiheretuTesh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=820&lines=Hi+there%2C+I'm+Miheretu+%F0%9F%91%8B;Software+Engineer+%E2%9A%A1+Building+for+the+web;Currently+crafting+products+%40+Hire+Armada" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=820&lines=Hi+there%2C+I'm+Miheretu+%F0%9F%91%8B;Software+Engineer+%E2%9A%A1+Building+for+the+web;Currently+crafting+products" alt="Typing SVG" />
   </a>
 </div>
 
