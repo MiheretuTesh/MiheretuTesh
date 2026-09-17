@@ -48,14 +48,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiheretuTesh&bg_color=0d1117&color=2F81F7&line=2F81F7&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 ### 🤝 Connect with Me
 
 <div align="center">
