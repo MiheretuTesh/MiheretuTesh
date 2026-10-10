@@ -1,4 +1,4 @@
-# Hi, I'm Miherete 👋
+# Hi, I'm Miheretu 👋
 
 AI Engineer | Automation Enthusiast
 
